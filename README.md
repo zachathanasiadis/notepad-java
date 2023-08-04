@@ -1,1 +1,1 @@
-A simple notepad app using Java Swing
+A simple notepad app using Java Swing.
